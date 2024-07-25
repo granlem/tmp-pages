@@ -1,0 +1,5 @@
+/* Hide static amount */
+#link1 { display:none; }
+
+/* Show malicious message */
+#link2 { display:inline; }
